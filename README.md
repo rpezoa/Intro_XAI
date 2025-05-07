@@ -17,6 +17,7 @@ Jupyter notebooks interactivos que abordan diversos temas.
 | 3    |  LIME Imagenes  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/02_LIME_Clasificación-Imágenes.ipynb)  |
 | 4    |  KernelSHAP  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/04_SHAP_Kernel-Explainer-Higgs.ipynb)  | 
 | 5    |  SHAP con TreeExplainer  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/04_SHAP_TreeExplainer.ipynb)  | 
+| 6    |  Saliency Maps  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/06_Saliency_Maps.ipynb)  | 
 
 
 ## 🧑‍🏫 About
