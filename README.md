@@ -22,6 +22,7 @@ Jupyter notebooks interactivos que abordan diversos temas.
 | 8    |  Grad-CAM  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/07-Grad_CAM.ipynb)  | 
 | 9    |  Inferencia Variacional  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/09_VI_Linear_Regression.ipynb)  | 
 | 10    | Regression y NLL  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/09_Linear_Regression_NN.ipynb)  | 
+| 11    | Regression con MC Dropout  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/14_MC_Dropout_Pytorch.ipynb)  | 
 
 
 
