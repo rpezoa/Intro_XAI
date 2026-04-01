@@ -16,6 +16,7 @@ Jupyter notebooks interactivos que abordan diversos temas.
 | 2    |  LIME Tabular  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/02_LIME-Datos-Tabulados.ipynb)  |
 | 3    |  LIME Imagenes  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/02_LIME_Clasificación-Imágenes.ipynb)  |
 | 4    |  KernelSHAP  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/04_SHAP_Kernel-Explainer-Higgs.ipynb)  | 
+| 5    |  Counterfactual  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/05-Counterfactual-Explanations.ipynb)  |  
 | 5    |  SHAP con TreeExplainer  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/04_SHAP_TreeExplainer.ipynb)  | 
 | 6    |  Saliency Maps  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/06_Saliency_Maps.ipynb)  | 
 | 7    |  CAM  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/07_CAM_LoadModel.ipynb)  | 
