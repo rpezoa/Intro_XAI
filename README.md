@@ -2,7 +2,37 @@
 
 ¡Bienvenidos al repositorio **Intro_XAI**! 🎓 Este repositorio contiene ejercicios diseñados para actividades prácticas en temas de **IX Explicable**.
 
-## 📂 Estrucutura del repositorio
+## Setup local
+
+### Requisitos previos
+- Python 3.11 ([pyenv](https://github.com/pyenv/pyenv) recomendado: `pyenv install 3.11.9`)
+- Jupyter Notebook o VS Code con extension Jupyter
+
+### Crear entorno virtual
+
+```bash
+# Crear venv con Python 3.11
+python3.11 -m venv .venv
+
+# Activar
+source .venv/bin/activate        # Linux/macOS
+# .venv\Scripts\activate         # Windows
+
+# Instalar dependencias
+pip install -r requirements.txt
+
+# Registrar kernel para Jupyter
+python -m ipykernel install --user --name xai-env --display-name "Python (XAI)"
+```
+
+Al abrir un notebook, seleccionar el kernel **Python (XAI)**.
+
+### Notas
+- Algunos notebooks descargan datos y modelos desde Google Drive con `gdown`. Requiere conexion a internet en la primera ejecucion.
+- Los notebooks con `from google.colab import drive` estan pensados para Google Colab. En ejecucion local, esas celdas deben comentarse o adaptarse.
+- El notebook `12_Spectral_Lines_v0.ipynb` usa `tensorflow-addons` (descontinuado). Puede requerir ajustes para funcionar localmente.
+
+## Estructura del repositorio
 
 ### **1. Notebooks**
 Jupyter notebooks interactivos que abordan diversos temas.
