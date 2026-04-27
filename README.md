@@ -18,7 +18,7 @@ Jupyter notebooks interactivos que abordan diversos temas.
 | 4    |  KernelSHAP  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/04_SHAP_Kernel-Explainer-Higgs.ipynb)  | 
 | 5    |  Counterfactual OmniXAI  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/05_Counterfactual_OmniXAI.ipynb)  |  
 | 6    |  Saliency Maps  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/06_Saliency_Maps.ipynb)  | 
-| 7    |  CAM  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/07_CAM_LoadModel.ipynb)  | 
+| 7    |  CAM  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/rpezoa/Intro_XAI/blob/main/07_CAM_LoadModel_sin_cv2.ipynb)  | 
 | 8    |  Grad-CAM  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/07-Grad_CAM.ipynb)  | 
 | 9    |  Inferencia Variacional  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/09_VI_Linear_Regression.ipynb)  | 
 | 10    | Regression y NLL  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/09_Linear_Regression_NN.ipynb)  | 
